@@ -3,7 +3,8 @@
 
  
 using namespace std;
- 
+using namespace chrono;
+
 
 void olympicsGOld(){
 	int n;
